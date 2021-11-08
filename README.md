@@ -1,4 +1,5 @@
 #A case study on handling imbalanced datasets
+
 Niyati Chopra, Jerry Adams Franklin, Manaswini Nagaraj
 
 Most machine learning classification algorithms are designed under the assumption that each class has an equal number of examples to learn from in the dataset, but real-world data doesn't always reflect that assumption. A dataset is said to be imbalanced if the number of samples for one of the classes is higher than the other class. The class that has a higher number of samples is called the majority class and the class that has a lower number of examples is called the minority class. 
